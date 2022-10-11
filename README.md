@@ -1,6 +1,6 @@
 # Team Dev Frontend Client
 
-This is the client repository for the frontend team development project.
+This is the client repository for the frontend team development project. It's your chance to express yourselves!
 
 This is a simulation of professional development teamwork. Here, you work on parts of an application in teams. The application already has a backend server live with ‘users’. Your job is to develop parts of the frontend.
 
